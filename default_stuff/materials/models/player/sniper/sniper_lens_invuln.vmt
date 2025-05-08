@@ -1,0 +1,16 @@
+"VertexLitGeneric"
+{
+	"$basetexture" "models\player\sniper\sniper_lens_invuln"
+	"$model" "1"
+	"$cloakPassEnabled" "1"
+	"$selfillum" "1"
+	"Proxies"
+	{
+		"spy_invis" //wmodel and team color cloak support
+		{
+		}
+		"invis" //vmodel cloak support
+		{
+		}
+	}
+}

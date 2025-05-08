@@ -1,0 +1,7 @@
+"VertexLitGeneric"
+{
+	// zombie Spies do not have eyes
+	"$basetexture"	"dev/null"
+	"$surfaceprop"	"flesh"
+	"$alphatest"	"1"
+}
